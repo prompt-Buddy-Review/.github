@@ -1,0 +1,2 @@
+# .github
+Prompt Buddy Review
